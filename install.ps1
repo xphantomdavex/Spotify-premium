@@ -3,10 +3,18 @@ $PSDefaultParameterValues['Stop-Process:ErrorAction'] = 'SilentlyContinue'
 
 write-host @'
 ***************** 
-@mrpond message:
-linktr.ee/AGFY For free games and softwares 100% virus free
+@Phantom message:
+linktr.ee/AGFY For free games and softwares 100% virus free, and movies/ tv shows
 sellix.io/PhantomxStore for free pizza from pizzahut 
-sellix.io/TheModdingShop for modding services in games like bo3 / gta5/ mw2019 / cold war 
+sellix.io/TheModdingShop for modding services in games like bo3 / gta5 / mw2019 / cold war 
+***************** 
+'@
+
+write-host @'
+***************** 
+@mrpond message:
+#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
+Please retweet these hashtag, help me stop dictator government!
 ***************** 
 '@
 
@@ -182,6 +190,15 @@ write-host @'
 @mrpond message:
 #Thailand #ThaiProtest #ThailandProtest #freeYOUTH
 Please retweet these hashtag, help me stop dictator government!
+***************** 
+'@
+
+write-host @'
+***************** 
+@Phantom message:
+linktr.ee/AGFY For free games and softwares 100% virus free, and movies/ tv shows
+sellix.io/PhantomxStore for free pizza from pizzahut 
+sellix.io/TheModdingShop for modding services in games like bo3 / gta5 / mw2019 / cold war 
 ***************** 
 '@
 
